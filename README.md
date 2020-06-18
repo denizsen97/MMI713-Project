@@ -1,6 +1,10 @@
 # MMI713-Project
 My implementation of parallelized weighted TrustRank on subreddits using CUDA, Thrust and OpenMP APIs
 
+The code can be tried from the Google Colab notebook:
+https://colab.research.google.com/drive/1tbKozogge9oJjrxzmV6B4j6OUypRS3ri?usp=sharing
+
+
 It requires SNAP: Social Network: Reddit Hyperlink dataset to work on. The data can be fetched from https://snap.stanford.edu/data/soc-RedditHyperlinks.html
 
 
