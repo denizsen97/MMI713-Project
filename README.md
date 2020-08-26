@@ -23,7 +23,7 @@ To run the program:
 
 - beta   : a float between 0 and 1 such as 0.8 for the teleportation probability 
 
-- augmentation: an integer greater than or equal to 0, to indicate the aıgmentation amount of the read data
+- augmentation: an integer greater than or equal to 0, to indicate the augmentation amount of the read data
 
 - trusted_page_number: number of trusted pages to gather from the first PageRank
 
